@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/MyVehicle.dir/Main.cpp.o CMakeFiles/MyVehicle.dir/src/Vehicle.cpp.o CMakeFiles/MyVehicle.dir/src/Owner.cpp.o  -o MyVehicle 

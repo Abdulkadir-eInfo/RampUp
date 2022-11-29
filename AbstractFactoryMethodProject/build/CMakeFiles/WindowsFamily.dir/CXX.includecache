@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Widget.h
+
+../include/WindowsFamily.h
+Widget.h
+../include/Widget.h
+
+/home/akm009/Desktop/AbstractFactoryMethodProject/src/WindowsFamily.cpp
+iostream
+-
+WindowsFamily.h
+/home/akm009/Desktop/AbstractFactoryMethodProject/src/WindowsFamily.h
+

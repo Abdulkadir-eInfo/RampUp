@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Owner.h
+Vehicle.h
+../include/Vehicle.h
+
+../include/Vehicle.h
+
+/home/akm009/Desktop/FactoryMethodProject/Main.cpp
+iostream
+-
+unistd.h
+-
+Owner.h
+/home/akm009/Desktop/FactoryMethodProject/Owner.h
+

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/AbstactFactory.h
+Widget.h
+../include/Widget.h
+
+../include/LinuxFactory.h
+AbstactFactory.h
+../include/AbstactFactory.h
+
+../include/LinuxFamily.h
+Widget.h
+../include/Widget.h
+
+../include/Widget.h
+
+/home/akm009/Desktop/AbstractFactoryMethodProject/src/LinuxFactory.cpp
+LinuxFactory.h
+/home/akm009/Desktop/AbstractFactoryMethodProject/src/LinuxFactory.h
+LinuxFamily.h
+/home/akm009/Desktop/AbstractFactoryMethodProject/src/LinuxFamily.h
+

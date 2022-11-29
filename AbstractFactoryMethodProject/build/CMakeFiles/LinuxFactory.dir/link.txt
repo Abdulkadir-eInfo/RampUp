@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLinuxFactory.a  CMakeFiles/LinuxFactory.dir/src/LinuxFactory.cpp.o
+/usr/bin/ranlib libLinuxFactory.a

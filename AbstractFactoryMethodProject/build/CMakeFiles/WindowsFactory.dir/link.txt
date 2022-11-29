@@ -1,0 +1,2 @@
+/usr/bin/ar qc libWindowsFactory.a  CMakeFiles/WindowsFactory.dir/src/WindowsFactory.cpp.o
+/usr/bin/ranlib libWindowsFactory.a

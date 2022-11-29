@@ -1,0 +1,2 @@
+/usr/bin/ar qc libWindowsFamily.a  CMakeFiles/WindowsFamily.dir/src/WindowsFamily.cpp.o
+/usr/bin/ranlib libWindowsFamily.a

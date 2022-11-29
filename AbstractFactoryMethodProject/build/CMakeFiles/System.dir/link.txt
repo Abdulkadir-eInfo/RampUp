@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/System.dir/Main.cpp.o CMakeFiles/System.dir/src/Client.cpp.o CMakeFiles/System.dir/src/LinuxFamily.cpp.o CMakeFiles/System.dir/src/WindowsFamily.cpp.o CMakeFiles/System.dir/src/WindowsFactory.cpp.o CMakeFiles/System.dir/src/LinuxFactory.cpp.o  -o System   -L/home/akm009/Desktop/AbstractFactoryMethodProject/include 

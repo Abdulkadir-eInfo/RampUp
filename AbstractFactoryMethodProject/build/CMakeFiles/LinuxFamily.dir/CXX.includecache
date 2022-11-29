@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/LinuxFamily.h
+Widget.h
+../include/Widget.h
+
+../include/Widget.h
+
+/home/akm009/Desktop/AbstractFactoryMethodProject/src/LinuxFamily.cpp
+iostream
+-
+LinuxFamily.h
+/home/akm009/Desktop/AbstractFactoryMethodProject/src/LinuxFamily.h
+

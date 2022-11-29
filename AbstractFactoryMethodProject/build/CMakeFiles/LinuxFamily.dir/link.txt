@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLinuxFamily.a  CMakeFiles/LinuxFamily.dir/src/LinuxFamily.cpp.o
+/usr/bin/ranlib libLinuxFamily.a
